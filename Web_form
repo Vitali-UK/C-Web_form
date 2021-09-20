@@ -1,0 +1,1 @@
+Label2.Text = "Your hobby is " + TextBox1.Text + "!!!, Welcome to uCertify.";
